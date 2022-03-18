@@ -1,0 +1,7 @@
+﻿  simple.cpp
+D:\Visual Studio\OpenGL\2D_programming_week2\simple.cpp(46,33): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  Project1.vcxproj -> D:\Visual Studio\OpenGL\2D_programming_week2\Release\Project1.exe
