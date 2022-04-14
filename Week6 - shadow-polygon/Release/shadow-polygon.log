@@ -1,0 +1,7 @@
+﻿  shadow-polygon.cpp
+D:\Visual Studio\OpenGL\shadow-polygon\shadow-polygon.cpp(116,34): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  shadow-polygon.vcxproj -> D:\Visual Studio\OpenGL\shadow-polygon\Release\shadow-polygon.exe
