@@ -1,4 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/qmusFOtbR9yPey9e6gZqJQ/badge)](https://hackmd.io/qmusFOtbR9yPey9e6gZqJQ)
 ![](https://img.shields.io/badge/Class-OpenGL-blue)
+
 # OpenGL
 
 記錄有關於 `計算機圖學` 的上課筆記與學到的知識
@@ -20,5 +22,11 @@
 
 > glPushMatrix()、glPopMatrix()
 > -- perform a transformation and then return to the same state as before its execution
+
+## Week6 - Shadow Polygon
+creating shadow polygon by means of perspective projection
+
+## Midterm - Solar System
+利用 GL transformation functions 製作出簡單的太陽系行星公轉及自轉動畫程式
 
 ###### tags: `OpenGL`
