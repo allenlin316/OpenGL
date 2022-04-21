@@ -29,4 +29,7 @@ creating shadow polygon by means of perspective projection
 ## Midterm - Solar System
 利用 GL transformation functions 製作出簡單的太陽系行星公轉及自轉動畫程式
 
+## Week10 - Texture
+初學 texture
+
 ###### tags: `OpenGL`
