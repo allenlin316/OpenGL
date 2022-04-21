@@ -6,3 +6,7 @@ Debug/
 *.vcxproj.user
 UpgradeLog.htm
 .vs/
+*.dsp
+*.dsw
+*.bmp
+Backup/
