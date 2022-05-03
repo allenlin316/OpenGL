@@ -35,4 +35,7 @@ creating shadow polygon by means of perspective projection
 ## Week11 - Space_ship Simulator
 利用 transformation 讓太空船移動
 
+## Week12 - Lights
+物體打光
+
 ###### tags: `OpenGL`
