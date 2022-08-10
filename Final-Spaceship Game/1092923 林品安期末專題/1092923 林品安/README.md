@@ -1,5 +1,5 @@
-# Space_ship Simulator
+# Space Ship Game
 
-## 結果畫面
+## 執行畫面
 
-![](https://imgur.com/c9dy1S6.png)
+![](https://imgur.com/TGrCFIG.png)
