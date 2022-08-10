@@ -38,4 +38,8 @@ creating shadow polygon by means of perspective projection
 ## Week12 - Lights
 物體打光
 
+## Final - Space_Ship_Game
+太空船小遊戲  
+可以到 `release` 的地方載壓縮檔來玩
+
 ###### tags: `OpenGL`
